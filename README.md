@@ -1,10 +1,11 @@
-### Hi there 👋, my name is Omayma Mallouli
+![Design and Development](https://camo.githubusercontent.com/d8a7b68700e343761bb04aee7c848aade21227cdae9e9ce9f1dac0d7c88df23d/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033352f3639332f3635362f6f726967696e616c2f6777796e6574682d62616c75)
+### my name is Omayma Mallouli
+
 #### I am  a first year computer science student 
-![I am  a first year computer science student ](https://camo.githubusercontent.com/d8a7b68700e343761bb04aee7c848aade21227cdae9e9ce9f1dac0d7c88df23d/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033352f3639332f3635362f6f726967696e616c2f6777796e6574682d62616c7563696f2d68656c6c6f2d776f726c642e6769663f31363135363432383737)
 
 I am a passionate and hardworking woman with a strong interest in computer science
 
-Skills:  python 
+Skills:  🐍 python 🪶SQLite  ©️ c/c++
 
 - 🔭 I’m currently working on An intelligent website related to medical . 
 - 🌱 I’m currently learning data science, machine learning and I'm  also working on improving my problem solving skills . 
